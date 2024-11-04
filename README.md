@@ -1,3 +1,3 @@
 # flex-display
 
-![Flex display view](/flex-display.png)
+![Flex display view](/flex-display.PNG)
